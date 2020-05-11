@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="241e0dcf-c1b1-45a7-a352-0cd1d3b41b02" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../react/learning_react/Exercise Files/Ch05/05_01/finished/lake-app" beforeDir="false" afterPath="$PROJECT_DIR$/../../react/learning_react/Exercise Files/Ch05/05_01/finished/lake-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react/learning_react/Exercise Files/Ch05/05_02/finished/lake-app" beforeDir="false" afterPath="$PROJECT_DIR$/../../react/learning_react/Exercise Files/Ch05/05_02/finished/lake-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react/learning_react/Exercise Files/Ch05/05_02/start/lake-app" beforeDir="false" afterPath="$PROJECT_DIR$/../../react/learning_react/Exercise Files/Ch05/05_02/start/lake-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react/learning_react/Exercise Files/Ch05/05_03/finished/lake-app" beforeDir="false" afterPath="$PROJECT_DIR$/../../react/learning_react/Exercise Files/Ch05/05_03/finished/lake-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react/learning_react/Exercise Files/Ch05/05_03/start/lake-app" beforeDir="false" afterPath="$PROJECT_DIR$/../../react/learning_react/Exercise Files/Ch05/05_03/start/lake-app" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1bkV4IgVNJwUpPiD3MrHKLfzqPx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="241e0dcf-c1b1-45a7-a352-0cd1d3b41b02" name="Default Changelist" comment="" />
+      <created>1589175885472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589175885472</updated>
+    </task>
+    <servers />
+  </component>
+</project>
